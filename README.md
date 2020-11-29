@@ -1,0 +1,2 @@
+# HW_mnogopotochnaya_programma_s_OpenMP_cpp
+Создание многопоточной программы с использованием OpenMP
